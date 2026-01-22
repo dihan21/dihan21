@@ -1,6 +1,6 @@
 👋 Hey, I'm Md. Akib Al Mahmud
 
-🎯 Aspiring Software Engineer | Full-Stack Developer | Problem Solver
+🎯 Aspiring Software Engineer | Problem Solver
 
 🚀 About Me
 💡 Passionate about building real, impactful systems — from OS-level programs in C to modern full-stack web apps.
@@ -16,4 +16,4 @@ Tools & Tech:
 🌐 Next.js • React.js • Tailwind • ShadCN • Clerk
 🛠️ GitHub • VS Code • Figma • Trello
 🌐 Stripe • Vonage
-🖧 Cisco Packet Tracer
+🖧 Cisco Packet Tracer 
